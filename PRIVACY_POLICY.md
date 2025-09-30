@@ -8,13 +8,13 @@ Metronom Pro ("biz", "bizim", "uygulamamız") olarak, kullanıcılarımızın gi
 
 ## Toplanan Bilgiler
 
-**Metronom Pro uygulaması hiçbir kişisel veri toplamaz.**
+**Metronom Pro uygulaması kişisel veri toplamaz, ancak reklam hizmetleri için sınırlı veri kullanımı yapılır.**
 
-Uygulama tamamen offline çalışır ve:
-- İnternet bağlantısı gerektirmez
-- Sunuculara veri göndermez
+Uygulama:
+- Temel işlevsellik için internet bağlantısı gerektirmez
 - Kullanıcı bilgilerini toplamaz
 - Analitik veri toplamaz
+- Reklam gösterimi için Google AdMob kullanır
 
 ## Yerel Veriler
 
@@ -31,9 +31,10 @@ Bu veriler:
 ## Veri Paylaşımı
 
 Metronom Pro uygulaması:
-- Hiçbir veri toplamaz
-- Hiçbir veri paylaşmaz
-- Üçüncü taraflarla veri alışverişi yapmaz
+- Kişisel veri toplamaz
+- Kullanıcı bilgilerini paylaşmaz
+- Reklam gösterimi için Google AdMob ile sınırlı veri paylaşımı yapar
+- AdMob, reklam kişiselleştirmesi için cihaz bilgilerini kullanabilir
 
 ## Veri Güvenliği
 
@@ -61,7 +62,13 @@ Ritim Pro uygulaması 13 yaş altındaki çocuklardan bilerek kişisel bilgi top
 
 Uygulama aşağıdaki üçüncü taraf hizmetlerini kullanabilir:
 - **Google Play Services:** Uygulama güncellemeleri için
+- **Google AdMob:** Reklam gösterimi için
 - **Flutter Framework:** Uygulama geliştirme platformu
+
+### Google AdMob
+- Reklam gösterimi için kullanılır
+- Cihaz bilgilerini reklam kişiselleştirmesi için kullanabilir
+- AdMob'un kendi gizlilik politikası geçerlidir
 
 ## Veri Saklama
 
