@@ -1,14 +1,14 @@
-# Gizlilik Politikası - Ritim Pro
+# Gizlilik Politikası - Metronom Pro
 
 **Son Güncelleme:** 30 Eylül 2025
 
 ## Giriş
 
-Ritim Pro ("biz", "bizim", "uygulamamız") olarak, kullanıcılarımızın gizliliğini korumayı taahhüt ediyoruz. Bu Gizlilik Politikası, Ritim Pro metronom uygulamasının gizlilik uygulamalarını açıklar.
+Metronom Pro ("biz", "bizim", "uygulamamız") olarak, kullanıcılarımızın gizliliğini korumayı taahhüt ediyoruz. Bu Gizlilik Politikası, Metronom Pro metronom uygulamasının gizlilik uygulamalarını açıklar.
 
 ## Toplanan Bilgiler
 
-**Ritim Pro uygulaması hiçbir kişisel veri toplamaz.**
+**Metronom Pro uygulaması hiçbir kişisel veri toplamaz.**
 
 Uygulama tamamen offline çalışır ve:
 - İnternet bağlantısı gerektirmez
@@ -30,7 +30,7 @@ Bu veriler:
 
 ## Veri Paylaşımı
 
-Ritim Pro uygulaması:
+Metronom Pro uygulaması:
 - Hiçbir veri toplamaz
 - Hiçbir veri paylaşmaz
 - Üçüncü taraflarla veri alışverişi yapmaz
